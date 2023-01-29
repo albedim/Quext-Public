@@ -19,3 +19,10 @@ LANGUAGES = {
     'turkish': 'tr',
     'welsh': 'cy'
 }
+
+LANGUAGES1 = {
+    'english': 'eng',
+    'french': 'fra',
+    'italian': 'ita',
+    'spanish': 'spa'
+}
