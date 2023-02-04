@@ -1,7 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5cba5a4-8546-4c40-bd94-ebe41d4bc99d" name="Changes" comment="" />
+    <list default="true" id="a5cba5a4-8546-4c40-bd94-ebe41d4bc99d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../EasyEat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/.idea/EasyEat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/.idea/server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/configuration/Config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/configuration/Read-To-Use-REST_SERVICE.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/controller/CartController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/controller/OrderController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/controller/ProductController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/controller/UserController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/entity/Cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/entity/Order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/entity/Product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/entity/User.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/repository/CartRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/repository/OrderRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/repository/ProductRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/model/repository/UserRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/service/CartService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/service/OrderService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/service/ProductService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/service/UserService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/easyeat/utils/Util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/resources/config.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/resources/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/resources/rest_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server/start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/.idea/server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/configuration/Config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/configuration/Read-To-Use-REST_SERVICE.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/entity/Cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/entity/Order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/entity/Product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/entity/User.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/repository/CartRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/repository/OrderRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/repository/ProductRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/model/repository/UserRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/service/CartService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/service/OrderService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/service/ProductService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/server1/src/me/albedim/easyeat/service/UserService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/.idea/server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/model/Cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/model/Order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/model/Product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyEat/serverOld/model/User.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/controller/PollController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/controller/PollController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/entity/Poll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/entity/Poll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/repository/PollRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/repository/PollRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/model/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/service/PollService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/service/PollService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/utils/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/java/me/albedim/fryeat/utils/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fryeat/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Fryeat/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/controller/TravelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/controller/TravelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/entity/Travel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/entity/Travel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/repository/TravelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/repository/TravelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/model/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/service/TravelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/service/TravelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/utilities/MyConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/utilities/MyConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/utilities/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPooling/src/main/java/me/albedim/mypooling/utilities/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quext/configuration/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/quext/configuration/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/controller/ContributionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/controller/ContributionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/utils/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskManager/src/main/java/me/albedim/taskmanager/utils/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/.idea/WhoAreYou.com.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/resources/config.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/resources/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/resources/rest-service.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/assets/userImages/albertodimaio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/assets/userImages/kettysarnataro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/assets/userImages/matteosalvi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/configuration/Config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/controller/AdminController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/controller/UserController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/model/entity/Admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/model/entity/User.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/model/repository/AdminRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/model/repository/UserRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/service/AdminService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/service/UserService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoAreYou.com/whoareyou/utils/Util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/.idea/WhoAreYou.com.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/resources/config.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/resources/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/resources/rest-service.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/assets/userImages/albertodimaio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/assets/userImages/kettysarnataro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/assets/userImages/matteosalvi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/configuration/Config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/controller/AdminController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/controller/UserController.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/model/entity/Admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/model/entity/User.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/model/repository/AdminRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/model/repository/UserRepository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/service/AdminService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/service/UserService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whoareyou-com/whoareyou/utils/Util.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +170,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Archivio/DevRoom/WebApps-Server/Quext-Public"
+    "last_opened_file_path": "D:/Archivio/DevRoom/WebApps-Server/Quext-Public/quext/controller"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Archivio\DevRoom\WebApps-Server\Quext-Public\quext\controller" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quext-Public" />
